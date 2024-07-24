@@ -1,0 +1,5 @@
+echo "target/" >> .gitignore
+git add .
+git commit -m "Initial commit"
+git remote add origin https://github.com/Karuki-op/MelonCrates.git
+git push -u origin master
