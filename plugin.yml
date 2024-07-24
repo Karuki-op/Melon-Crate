@@ -1,0 +1,13 @@
+name: MelonCrates
+main: com.example.meloncrates.MelonCrates
+version: 1.0
+api-version: 1.16
+author: Spacaso
+commands:
+  crate:
+    description: Open a crate
+    usage: /crate <type>
+permissions:
+  meloncrates.open:
+    description: Permission to open crates
+    default: true
