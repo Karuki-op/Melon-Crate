@@ -1,0 +1,7 @@
+crates:
+  diamond:
+    - DIAMOND
+    - DIAMOND_SWORD
+  gold:
+    - GOLD_INGOT
+    - GOLDEN_APPLE
